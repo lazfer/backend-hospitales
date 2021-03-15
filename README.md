@@ -8,3 +8,7 @@ npm i mongoose
 npm i dotenv
 - cors para controlar peticiones cruzadas
 npm i cors
+- Validaciones de data
+npm i express-validator
+- Encriptar contraseña
+npm i bcryptjs
